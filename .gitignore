@@ -10,3 +10,7 @@ testes/time.txt
 testes/time-debug.txt
 
 testes/libs/all
+
+cmake/*
+
+cmake-build-debug/*
